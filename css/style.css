@@ -438,7 +438,7 @@ section {
 }
 
 .customers-icon {
-  fill: var(--icons-color);
+  fill: currentColor;
 }
 
 /* portfolio */
